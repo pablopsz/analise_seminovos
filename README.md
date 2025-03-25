@@ -1,4 +1,4 @@
-# Projeto de Análise de Carros Seminovos
+# :car: Projeto de Análise de Carros Seminovos
 
 Este repositório contém um projeto para coletar, processar e visualizar dados de carros seminovos. O projeto é dividido em três partes principais: coleta de dados, concatenação de dados e visualização dos dados usando a biblioteca Streamlit.
 
